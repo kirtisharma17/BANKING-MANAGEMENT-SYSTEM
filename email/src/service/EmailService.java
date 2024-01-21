@@ -39,7 +39,7 @@ public class EmailService {
 			protected PasswordAuthentication getPasswordAuthentication() {
 				// TODO Auto-generated method stub
 				//return super.getPasswordAuthentication() {
-				return new PasswordAuthentication("kirti.techsoft2023@gmail.com", "rnwnqxsuyuwtgjsa");
+				return new PasswordAuthentication("priti.tech2027773@gmail.com", "rtgjsajjjjjj");
 						
 			}
 			  
